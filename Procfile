@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn Pred_calc_flask:app
