@@ -1,0 +1,13 @@
+Los Angeles Chargers 37 10
+Miami Dolphins 34 10
+Buffalo Bills 40 9
+New York Jets 39 38
+Houston Texans 26 15
+New England Patriots 32 13
+Philadelphia Eagles 38 20
+Baltimore Ravens 30 16
+Tampa Bay Buccaneers 23 3
+Indianapolis Colts 38 14
+Denver Broncos 44 24
+Green Bay Packers 35 25
+Kansas City Chiefs 28 7

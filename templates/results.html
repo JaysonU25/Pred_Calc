@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        .results {
+            margin-top: 20px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Prediction Calculator Results</h1>
+    
+    <form action="/show_results" method="post">
+        <button type="submit" class="button">Show Results</button>
+    </form>
+
+    <form action="/update_scores" method="post">
+        <button type="submit" class="button">Update Scores</button>
+    </form>
+
+    {% if results %}
+    <div class="results">
+        <h2>Results:</h2>
+        <pre>{{ results }}</pre>
+    </div>
+    {% endif %}
+
+    {% if message %}
+    <div class="results">
+        <p>{{ message }}</p>
+    </div>
+    {% endif %}
+
+    <br>
+    <a href="/" class="button" style="background-color: #008CBA;">Back to Home</a>
+</body>
+</html>

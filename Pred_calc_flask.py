@@ -8,8 +8,8 @@ from contextlib import redirect_stdout
 
 app = Flask(__name__)
 
-#URL = "https://www.pro-football-reference.com/boxscores/"
-URL = "https://www.pro-football-reference.com/years/2025/week_7.htm"
+URL = "https://www.pro-football-reference.com/boxscores/"
+#URL = "https://www.pro-football-reference.com/years/2025/week_7.htm"
 
 MAX = 999
 NFL_TEAMS = {"JAX" : "Jacksonville Jaguars",
