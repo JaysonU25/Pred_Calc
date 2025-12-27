@@ -1,16 +1,14 @@
-Green Bay Packers 31 24
-Dallas Cowboys 31 28
-Cincinnati Bengals 32 14
-Chicago Bears 24 15
-Carolina Panthers 31 28
-San Francisco 49ers 26 8
-Houston Texans 20 16
-Miami Dolphins 21 17
-New York Jets 27 24
-Jacksonville Jaguars 25 3
-Tampa Bay Buccaneers 20 17
-Seattle Seahawks 26 0
-Buffalo Bills 26 7
-Los Angeles Chargers 31 14
-Denver Broncos 27 26
-New England Patriots 33 15
+Detroit Lions 44 30
+Seattle Seahawks 37 9
+Buffalo Bills 39 34
+Tennessee Titans 31 29
+Jacksonville Jaguars 36 19
+Minnesota Vikings 31 0
+Miami Dolphins 34 10
+Pittsburgh Steelers 27 22
+New Orleans Saints 24 20
+Denver Broncos 24 17
+Los Angeles Rams 45 17
+Green Bay Packers 28 21
+Houston Texans 20 10
+Los Angeles Chargers 22 19
