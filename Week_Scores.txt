@@ -1,14 +1,16 @@
-Detroit Lions 44 30
-Seattle Seahawks 37 9
-Buffalo Bills 39 34
-Tennessee Titans 31 29
-Jacksonville Jaguars 36 19
-Minnesota Vikings 31 0
-Miami Dolphins 34 10
-Pittsburgh Steelers 27 22
-New Orleans Saints 24 20
-Denver Broncos 24 17
-Los Angeles Rams 45 17
-Green Bay Packers 28 21
-Houston Texans 20 10
-Los Angeles Chargers 22 19
+Atlanta Falcons 29 28
+Chicago Bears 31 3
+Baltimore Ravens 24 0
+Houston Texans 40 20
+Jacksonville Jaguars 48 20
+Los Angeles Chargers 16 13
+Buffalo Bills 35 31
+Washington Commanders 29 21
+Philadelphia Eagles 31 0
+Denver Broncos 34 26
+New Orleans Saints 20 17
+Los Angeles Rams 41 34
+Seattle Seahawks 18 16
+San Francisco 49ers 37 24
+Minnesota Vikings 34 26
+Pittsburgh Steelers 28 15
