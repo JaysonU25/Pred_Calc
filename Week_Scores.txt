@@ -1,16 +1,16 @@
-Dallas Cowboys 30 23
-Minnesota Vikings 23 10
-Denver Broncos 20 13
-Houston Texans 20 16
-Baltimore Ravens 41 24
-Seattle Seahawks 27 10
-Cincinnati Bengals 37 14
-Cleveland Browns 13 6
-Jacksonville Jaguars 23 17
-Miami Dolphins 20 17
-New England Patriots 42 10
-New Orleans Saints 34 26
-New York Giants 34 10
-Philadelphia Eagles 13 12
-San Francisco 49ers 42 38
-Atlanta Falcons 27 24
+Tampa Bay Buccaneers 16 14
+Seattle Seahawks 13 3
+Atlanta Falcons 19 17
+Cleveland Browns 20 18
+Houston Texans 38 30
+Jacksonville Jaguars 41 7
+Minnesota Vikings 16 3
+New York Giants 34 17
+Buffalo Bills 35 8
+Detroit Lions 19 16
+Denver Broncos 19 3
+New England Patriots 38 10
+Washington Commanders 24 17
+Las Vegas Raiders 14 12
+Los Angeles Rams 37 20
+Pittsburgh Steelers 26 24
