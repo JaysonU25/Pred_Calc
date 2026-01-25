@@ -1,16 +1,6 @@
-Tampa Bay Buccaneers 16 14
-Seattle Seahawks 13 3
-Atlanta Falcons 19 17
-Cleveland Browns 20 18
-Houston Texans 38 30
-Jacksonville Jaguars 41 7
-Minnesota Vikings 16 3
-New York Giants 34 17
-Buffalo Bills 35 8
-Detroit Lions 19 16
-Denver Broncos 19 3
-New England Patriots 38 10
-Washington Commanders 24 17
-Las Vegas Raiders 14 12
-Los Angeles Rams 37 20
-Pittsburgh Steelers 26 24
+Los Angeles Rams 34 31
+Chicago Bears 31 27
+Buffalo Bills 27 24
+San Francisco 49ers 23 19
+New England Patriots 16 3
+Houston Texans 30 6
