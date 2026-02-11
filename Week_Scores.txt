@@ -1,4 +1,2 @@
-Denver Broncos 33 30
-Seattle Seahawks 41 6
-New England Patriots 28 16
-Los Angeles Rams 20 17
+New England Patriots 10 7
+Seattle Seahawks 31 27
