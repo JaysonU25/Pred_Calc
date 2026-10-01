@@ -1,16 +1,16 @@
 Buffalo Bills 41 31
-Seattle Seahawks 13 10
-San Francisco 49ers 27 7
-Chicago Bears 59 37
-Cincinnati Bengals 33 27
-Baltimore Ravens 41 23
-Detroit Lions 31 30
-Jacksonville Jaguars 34 10
-New York Jets 23 10
-Pittsburgh Steelers 20 13
-Minnesota Vikings 39 22
-Philadelphia Eagles 24 22
-Las Vegas Raiders 27 13
-Arizona Cardinals 26 14
-New York Giants 28 20
-Kansas City Chiefs 31 10
+Carolina Panthers 34 3
+Minnesota Vikings 9 3
+Cincinnati Bengals 20 6
+New England Patriots 20 3
+Green Bay Packers 20 17
+Philadelphia Eagles 24 20
+New Orleans Saints 24 17
+Cleveland Browns 23 19
+Denver Broncos 20 13
+Las Vegas Raiders 26 14
+Seattle Seahawks 31 7
+Dallas Cowboys 37 20
+San Francisco 49ers 35 13
+Kansas City Chiefs 33 30
+Los Angeles Rams 28 6
